@@ -23,6 +23,7 @@ python3 -m pip install -r requirements.txt
 ```diff
 └── meraki-update-l7-firewall-rules/
 +   ├── config.yml
+    ├── requirements.txt
     └── src/
          └── main.py  
 ```
