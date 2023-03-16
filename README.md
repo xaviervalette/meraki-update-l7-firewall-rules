@@ -1,5 +1,3 @@
-# meraki-update-l7-firewall-rules
- 
 # Meraki Update L7 Firewall (MX) rules
 
 ## What is it ?
